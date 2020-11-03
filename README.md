@@ -1,2 +1,2 @@
-# plsdeu.github.io
-Website
+# ehtg.github.io
+Website contents (HUGO-based) for European Hereditary Tumor Group
